@@ -5,8 +5,8 @@ Authschedule.py is a Python tool designed to filter scheduled tasks on a Windows
 
 
 ## Usage
-The program can be executed via the command line with the following options:
-
+The program can be executed via the command line with the following options.
+Please note that the program needs to be run in an elevated Command Prompt with administrator privileges:
 
 ## Arguments
 - `-u`, `--username`: Filter tasks by username.
